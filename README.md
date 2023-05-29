@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barthxc&label=Profile%20views&color=0e75b6&style=flat" alt="barthxc" />  <img aling="right" widht="100" height="100" src="https://em-content.zobj.net/source/microsoft-teams/363/jellyfish_1fabc.png"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barthxc&label=Profile%20views&color=0e75b6&style=flat" alt="barthxc" />  <img style="pointer-events: none;" aling="right" widht="100" height="100" src="https://em-content.zobj.net/source/microsoft-teams/363/jellyfish_1fabc.png"></p>
 
 <p align="left"> <a href="https://twitter.com/barthxc" target="blank"><img src="https://img.shields.io/twitter/follow/barthxc?logo=twitter&style=for-the-badge" alt="barthxc" /></a>  </p>  
 
