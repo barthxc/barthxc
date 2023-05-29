@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barthxc&label=Profile%20views&color=0e75b6&style=flat" alt="barthxc" />  <img style="pointer-events: none;" align="right" width="100" height="100" src="https://em-content.zobj.net/source/microsoft-teams/363/jellyfish_1fabc.png">
 </p>
 
-<p align="left"> <a href="https://twitter.com/barthxc" target="blank"><img src="https://img.shields.io/twitter/follow/barthxc?logo=twitter&style=for-the-badge" alt="barthxc" /></a>  </p>  
+<p align="left"> <a href="https://twitter.com/bart_hxc" target="blank"><img src="https://img.shields.io/twitter/follow/bart_hxc?logo=twitter&style=for-the-badge" alt="barthxc" /></a>  </p>  
 
 - 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [https://barthxc.github.io](https://barthxc.github.io)
 
-- 💬 Ask me about **🐜ANTS!❤️** <img aling="right" widht="50" height="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ant_1f41c.gif">
+- 💬 Ask me about **🐜ANTS!❤️** <img style="pointer-events: none;" aling="right" widht="50" height="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ant_1f41c.gif">
 
 - 📫 How to reach me **barthxc.business@gmail.com**
 
@@ -28,7 +28,7 @@
 
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) <img aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif">
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) <img style="pointer-events: none;" aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif">
 
 
 
