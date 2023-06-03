@@ -1,6 +1,9 @@
-[![MasterHead](https://media2.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif?cid=ecf05e473or02ur9tks0dbaqiigkx08ajz8fw46q0gdd3j96&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://barthxc.github.io)
+![Header](./github-header-image.png)
+
+
+<!--[![MasterHead](https://media2.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif?cid=ecf05e473or02ur9tks0dbaqiigkx08ajz8fw46q0gdd3j96&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://barthxc.github.io)
 <h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">A passionate developer from Spain</h3>-->
 
 
 
@@ -28,7 +31,11 @@
 
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) <img style="pointer-events: none;" aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif">
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) <img style="pointer-events: none;" aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif"> 
+<p align="left">
+<a href="https://barthxc.github.io"> <img width="200" src="https://media2.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif?cid=ecf05e473or02ur9tks0dbaqiigkx08ajz8fw46q0gdd3j96&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="click"></a>
+</p>
+
 
 
 
