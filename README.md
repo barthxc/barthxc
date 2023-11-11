@@ -46,6 +46,9 @@
   <a href="https://pugjs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
   </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/nextjs.svg" alt="nextjs" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="left">
