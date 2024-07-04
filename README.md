@@ -26,76 +26,86 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-bartolomé-gallardo-8167a81b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-bartolomé-gallardo-8167a81b4/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills and Learning:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40">
-  </a>
-</p>
+## <b> Skills | Languages, Frameworks, and Tools </b><img src="./assets/gifs/coder.webp" alt="⌨" width ="25">
+<div align="center">
+  <table>
+      <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+          <td>
+            <img height="30" src="https://skillicons.dev/icons?i=react" alt="Icon React" title="React"/>
+            <img height="30" src="https://skillicons.dev/icons?i=bootstrap" alt="Icon Bootstrap" title="Bootstrap"/>
+            <img height="30" src="https://skillicons.dev/icons?i=html" alt="Icon HTML" title="HTML"/>
+            <img height="30" src="https://skillicons.dev/icons?i=css" alt="Icon CSS" title="CSS"/>
+            <img height="30" src="https://skillicons.dev/icons?i=tailwind" alt="Icon Tailwind" title="Tailwind"/>
+            <img height="30" src="https://skillicons.dev/icons?i=js" alt="Icon JavaScript" title="JavaScript"/>
+            <img height="30" src="https://skillicons.dev/icons?i=ts" alt="Icon TypeScript" title="TypeScript"/>
+            <img height="30" src="https://skillicons.dev/icons?i=astro" alt="Icon Astro" title="Astro"/>
+            <img height="30" src="https://skillicons.dev/icons?i=nextjs" alt="Icon Next.js" title="Nextjs.js"/>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+          <td>
+            <img height="30" src="https://skillicons.dev/icons?i=nodejs" alt="Icon Node.js" title="Node.js"/>
+            <img height="30" src="https://skillicons.dev/icons?i=express" alt="Icon Express" title="Express"/>
+            <img height="30" src="https://skillicons.dev/icons?i=sequelize" alt="Icon Sequelize" title="Sequelize"/>
+            <img height="30" src="https://skillicons.dev/icons?i=python" alt="Icon Python" title="Python"/>
+            <img height="30" src="https://skillicons.dev/icons?i=nestjs" alt="Icon Nest.js" title="Nest.js"/>
+            <img src="./assets/icons/junit.png" alt="junit" width="30" alt="Icon JUnit" title="JUnit"/>
+            <img height="30" src="https://skillicons.dev/icons?i=java" alt="Icon Java" title="Java"/>
+            <img height="30" src="https://skillicons.dev/icons?i=spring" alt="Icon Spring" title="Spring"/>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+          <td>
+            <img height="30" src="https://skillicons.dev/icons?i=docker" alt="Icon Docker" title="Docker"/>
+            <img height="30" src="https://skillicons.dev/icons?i=vercel" alt="Icon Vercel" title="Vercel"/>
+            <img height="30" src="https://skillicons.dev/icons?i=githubactions" alt="Icon GitHub Actions" title="GitHub Actions"/>
+            <img height="30" src="https://skillicons.dev/icons?i=aws" alt="Icon AWS" title="AWS"/>
+            <img height="30" src="https://skillicons.dev/icons?i=planetscale" alt="Icon Planetscale" title="Planetscale"/>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+          <td>
+            <img height="30" src="https://skillicons.dev/icons?i=postgresql" alt="Icon PostgreSQL" title="PostgreSQL"/>
+            <img height="30" src="https://skillicons.dev/icons?i=mongodb" alt="Icon MongoDB" title="MongoDB"/>
+            <img height="30" src="https://skillicons.dev/icons?i=mysql" alt="Icon MySQL" title="MySQL"/>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+          <td>
+            <img height="30" src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub"/>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+          <td>
+            <img height="30" src="https://skillicons.dev/icons?i=npm" alt="Icon npm" title="npm"/>
+            <img height="30" src="https://skillicons.dev/icons?i=grafana" alt="Icon Grafana" title="Grafana"/>
+            <img height="30" src="https://skillicons.dev/icons?i=figma" alt="Icon Figma" title="Figma"/>
+            <img height="30" src="https://skillicons.dev/icons?i=postman" alt="Icon Postman" title="Postman"/>
+            <img height="30" src="https://skillicons.dev/icons?i=vscode" alt="Icon Vscode" title="Vscode"/>
+            <img height="30" src="https://skillicons.dev/icons?i=markdown" alt="Icon Markdown" title="Markdown"/>
+            <img height="30" src="https://skillicons.dev/icons?i=git" alt="Icon Git" title="Git"/>
+            <img height="30" src="https://skillicons.dev/icons?i=bash" alt="Icon Bash" title="Bash"/>
+            <img height="30" src="https://skillicons.dev/icons?i=powershell" alt="Icon PowerShell" title="PowerShell"/>
+            <img height="30" src="https://skillicons.dev/icons?i=obsidian	" alt="Icon Obsidian" title="Obsidian"/>
+          </td>
+      </tr>
+  </table>
+</div>
+<br><br>
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="mongoose" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
 
 
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) <img style="pointer-events: none;" aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif"> 
+<img style="pointer-events: none;" aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif"> 
 
-<!--
-<p align="left">
-[<img width="200" src="https://media2.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif?cid=ecf05e473or02ur9tks0dbaqiigkx08ajz8fw46q0gdd3j96&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="click">](https://barthxc.github.io){:target="_blank"}
-</p> 
-Arreglar este markwdown para hacer un img de target blank 
-Usar otro diseño (?)
--->
 
 
 
