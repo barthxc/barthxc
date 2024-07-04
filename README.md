@@ -17,14 +17,17 @@
 - 👨‍💻 All of my projects are available at [https://barthxc.github.io](https://barthxc.github.io)
 
 - 💬 Ask me about **🐜ANTS!❤️** <img style="pointer-events: none;" aling="right" widht="50" height="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ant_1f41c.gif">
+<br><br><br>
 
-- 📫 How to reach me **barthxc.business@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/barthxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barthxc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-bartolomé-gallardo-8167a81b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-bartolomé-gallardo-8167a81b4/" height="30" width="40" /></a>
-</p>
+## <b>How to reach me</b> <img style="pointer-events: none;" aling="right" widht="50" height="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ant_1f41c.gif alt="🐜">
+<a href="[https://linkedin.com/in/angelcalleserrano/](https://www.linkedin.com/in/pablo-bartolomé-gallardo-8167a81b4/)" target="_blank"><img
+src="https://skillicons.dev/icons?i=linkedin" alt="Icon Linkedin" title="Linkedin" align="center" height="50" width="50"/></a>
+<a href="mailto:barthxc@proton.me" target="blank"><img
+src="https://skillicons.dev/icons?i=gmail" alt="Icon Mail" title="Mail" align="center" height="50" width="50"/></a>
+<a href="https://www.github.com/github/barthxc" target="_blank"><img
+src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" align="center" height="50" width="50"/></a>
+<br><br><br>
 
 ## <b> Skills | Languages, Frameworks, and Tools </b><img src="./assets/gifs/coder.webp" alt="⌨" width ="25">
 <div align="center">
