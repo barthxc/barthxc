@@ -20,7 +20,9 @@
 <br><br><br>
 
 
-## <b>How to reach me</b> <img style="pointer-events: none;" aling="right" widht="50" height="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ant_1f41c.gif alt="🐜">
+## <b>How to reach me
+<img style="pointer-events: none;" aling="right" widht="50" height="50" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ant_1f41c.gif">
+</b> 
 <a href="[https://linkedin.com/in/angelcalleserrano/](https://www.linkedin.com/in/pablo-bartolomé-gallardo-8167a81b4/)" target="_blank"><img
 src="https://skillicons.dev/icons?i=linkedin" alt="Icon Linkedin" title="Linkedin" align="center" height="50" width="50"/></a>
 <a href="mailto:barthxc@proton.me" target="blank"><img
