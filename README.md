@@ -92,7 +92,7 @@
             <img height="30" src="https://skillicons.dev/icons?i=git" alt="Icon Git" title="Git"/>
             <img height="30" src="https://skillicons.dev/icons?i=bash" alt="Icon Bash" title="Bash"/>
             <img height="30" src="https://skillicons.dev/icons?i=powershell" alt="Icon PowerShell" title="PowerShell"/>
-            <img height="30" src="https://skillicons.dev/icons?i=obsidian	" alt="Icon Obsidian" title="Obsidian"/>
+            <img height="30" src="https://skillicons.dev/icons?i=obsidian" alt="Icon Obsidian" title="Obsidian"/>
           </td>
       </tr>
   </table>
