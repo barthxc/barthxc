@@ -54,7 +54,6 @@ src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" ali
             <img height="30" src="https://skillicons.dev/icons?i=sequelize" alt="Icon Sequelize" title="Sequelize"/>
             <img height="30" src="https://skillicons.dev/icons?i=python" alt="Icon Python" title="Python"/>
             <img height="30" src="https://skillicons.dev/icons?i=nestjs" alt="Icon Nest.js" title="Nest.js"/>
-            <img src="./assets/icons/junit.png" alt="junit" width="30" alt="Icon JUnit" title="JUnit"/>
             <img height="30" src="https://skillicons.dev/icons?i=java" alt="Icon Java" title="Java"/>
             <img height="30" src="https://skillicons.dev/icons?i=spring" alt="Icon Spring" title="Spring"/>
           </td>
