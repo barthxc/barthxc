@@ -29,7 +29,7 @@ src="https://skillicons.dev/icons?i=gmail" alt="Icon Mail" title="Mail" align="c
 src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" align="center" height="50" width="50"/></a>
 <br><br><br>
 
-## <b> Skills | Languages, Frameworks, and Tools </b><img src="./assets/gifs/coder.webp" alt="⌨" width ="25">
+## <b> Skills! </b>
 <div align="center">
   <table>
       <tr>
