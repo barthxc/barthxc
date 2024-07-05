@@ -103,12 +103,16 @@ src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" ali
 <br><br>
 
 
+## <b>Github Stats</b>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BartHxC&theme=tokyonight" width="400" alt="BartHxC's Repos pre Language"/>
+</div>
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartHxC&layout=compact&show_icons=true&theme=algolia&border_radius=20) 
 
+<div align="center">
 <img style="pointer-events: none;" aling="right" widht="50px" height="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/jellyfish_1fabc.gif"> 
-
+</div>
 
 
 
