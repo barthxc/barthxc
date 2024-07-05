@@ -105,9 +105,19 @@ src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" ali
 
 ## <b>Github Stats</b>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BartHxC&theme=tokyonight" width="400" alt="BartHxC's Repos pre Language"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BartHxC&theme=tokyonight"
+       width="400"
+       alt="BartHxC's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BartHxC&theme=tokyonight" 
+        width="400" 
+        alt="BartHxC's Repos pre Language"/>
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BartHxC&theme=tokyonight"
+       width="804"
+       alt="BartHxC's GitHub Profile Summary"/>
+</div>
 
 
 <div align="center">
