@@ -25,7 +25,7 @@
 src="https://skillicons.dev/icons?i=linkedin" alt="Icon Linkedin" title="Linkedin" align="center" height="50" width="50"/></a>
 <a href="mailto:barthxc@proton.me" target="blank"><img
 src="https://skillicons.dev/icons?i=gmail" alt="Icon Mail" title="Mail" align="center" height="50" width="50"/></a>
-<a href="github.com/barthxc" target="_blank"><img
+<a href="https://github.com/barthxc" target="_blank"><img
 src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" align="center" height="50" width="50"/></a>
 <br><br><br>
 
