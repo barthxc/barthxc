@@ -86,7 +86,6 @@ src="https://skillicons.dev/icons?i=github" alt="Icon GitHub" title="GitHub" ali
           <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
           <td>
             <img height="30" src="https://skillicons.dev/icons?i=npm" alt="Icon npm" title="npm"/>
-            <img height="30" src="https://skillicons.dev/icons?i=grafana" alt="Icon Grafana" title="Grafana"/>
             <img height="30" src="https://skillicons.dev/icons?i=figma" alt="Icon Figma" title="Figma"/>
             <img height="30" src="https://skillicons.dev/icons?i=postman" alt="Icon Postman" title="Postman"/>
             <img height="30" src="https://skillicons.dev/icons?i=vscode" alt="Icon Vscode" title="Vscode"/>
